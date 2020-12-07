@@ -26,7 +26,6 @@ if __name__=="__main__":
                     continue
 
 
-
     print(counter)
     print(my_result)
 
