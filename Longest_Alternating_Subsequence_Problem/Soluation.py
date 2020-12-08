@@ -1,4 +1,3 @@
-
 test_data=[8,9,6,4,5,7,3,2,4]
 my_result=list()
 my_result.append(test_data[0])
